@@ -4,6 +4,7 @@ const App:React.FC=()=>{
 
 
  <h1>hi</h1>
+ <p>changed something</p>
 
     </div>
   )
